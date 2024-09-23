@@ -83,3 +83,7 @@ There are two types of reports that can be generated after running the tests:
    ```shell
    npm run view-allure-reports
    ```
+
+
+Thank You.
+Jigar Rami
