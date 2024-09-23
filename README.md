@@ -1,6 +1,6 @@
 # SwagLabs web application Automation Test Cases
 
-This repository contains automated tests for the SwagLabs e-commerce website using Playwright and TypeScript. This test follows a Page Object Model (POM) where objects for each pages are created and tests are written based on the pages actions.
+This repository contains automated tests for the SwagLabs e-commerce web application using Playwright and TypeScript. This test follows a Page Object Model (POM) where objects for each pages are created and tests are written based on the pages actions.
 
 ## Getting Started
 
